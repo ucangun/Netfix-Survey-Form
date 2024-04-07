@@ -33,10 +33,6 @@ header {
   letter-spacing: 5px;
 }
 
-.header::first-letter {
-  font-size: 56px;
-}
-
 .header span {
   color: red;
 }
