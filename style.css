@@ -30,6 +30,11 @@ header {
   font-weight: 700;
   font-size: 50px;
   color: #fff;
+  letter-spacing: 5px;
+}
+
+.header::first-letter {
+  font-size: 56px;
 }
 
 .header span {
